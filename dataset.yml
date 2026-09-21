@@ -1,0 +1,9 @@
+path: prepared_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: object_A
+  1: object_B
+  2: object_C
